@@ -36,46 +36,40 @@
 		<dc:subject id="subject-2">Detective and mystery stories</dc:subject>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
 		<meta property="term" refines="#subject-2">sh85037260</meta>
+		<meta property="schema:genre">Mystery</meta>
+		<meta property="schema:genre">Fiction</meta>
 		<meta property="schema:genre">TAG</meta>
-		<meta property="schema:abstract">ABSTRACT</meta>
+		<meta property="schema:abstract">The arrival of a mysterious Peruvian mummy brings murder and a hunt for hidden Inca treasure to an English town.</meta>
 		<dc:description>
-			DESCRIPTION
+			Archie Hope seeks to gain approval to marry the delightful Lucy Kendal by purchasing a rare Peruvian mummy for her stepfather, Professor Braddock, an eccentric Egyptology enthusiast. Yet far from bringing a joyful resolution, the mummy’s arrival heralds murder and mystery. Plunged into chaos, the young couple and their friends must race to unravel the crime and uncover a missing fortune in Inca emeralds.
+			Blending classic detective fiction with light romance, <i>The Green Mummy</i> is a classic tale from prolific English author <a href="https://standardebooks.org/ebooks/fergus-hume">Fergus Hume</a>. By weaving popular Victorian sensibilities with the era's fascination with antiquity and Egyptology, Hume delivers an engaging story of murder, greed, and suspense.
 		</dc:description>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/2868</dc:source>
-		<dc:source>PAGE_SCANS_URL</dc:source>
+		<dc:source>https://babel.hathitrust.org/cgi/pt?id=uc1.b3324254&seq=7</dc:source>
 		<meta property="schema:wordCount">WORD_COUNT</meta>
 		<meta property="schema:educationalLevel">READING_EASE</meta>
-		<link href="EBOOK_WIKI_URL" rel="schema:sameAs"/>
 		<meta id="vcs-repository" property="schema:workExample">schema:workExample</meta>
 		<meta property="rdf:type" refines="#vcs-repository">http://schema.org/SoftwareSourceCode</meta>
 		<link href="https://github.com/standardebooks/fergus-hume_the-green-mummy" refines="#vcs-repository" rel="schema:codeRepository"/>
 		<dc:creator id="author">Fergus Hume</dc:creator>
 		<meta property="file-as" refines="#author">Hume, Fergus</meta>
-		<meta property="schema:alternateName" refines="#author">CONTRIBUTOR_FULL_NAME</meta>
 		<link href="https://en.wikipedia.org/wiki/Fergus_Hume" refines="#author" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/n82072865.html" refines="#author" rel="schema:sameAs"/>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="artist">COVER_ARTIST_NAME</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<link href="COVER_ARTIST_WIKI_URL" refines="#artist" rel="schema:sameAs"/>
-		<link href="COVER_ARTIST_NACOAF_URI" refines="#artist" rel="schema:sameAs"/>
+		<dc:contributor id="artist">EDWARD_MITCHELL_BANNISTER</dc:contributor>
+		<meta property="file-as" refines="#artist">BANNISTER, EDWARD_MITCHELL</meta>
+		<link href="https://en.wikipedia.org/wiki/Edward_Mitchell_Bannister" refines="#artist" rel="schema:sameAs"/>
+		<link href="https://id.loc.gov/authorities/names/n82072866.html" refines="#artist" rel="schema:sameAs"/>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
-		<dc:contributor id="transcriber-1">TRANSCRIBER_1_NAME</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">TRANSCRIBER_1_SORT</meta>
-		<link href="TRANSCRIBER_1_URL" refines="#transcriber-1" rel="schema:url"/>
+		<dc:contributor id="transcriber-1">ANONYMOUS</dc:contributor>
+		<meta property="file-as" refines="#transcriber-1">ANONYMOUS</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
-		<dc:contributor id="transcriber-2">TRANSCRIBER_2_NAME</dc:contributor>
-		<meta property="file-as" refines="#transcriber-2">TRANSCRIBER_2_SORT</meta>
-		<link href="TRANSCRIBER_2_URL" refines="#transcriber-2" rel="schema:url"/>
+		<dc:contributor id="transcriber-2">DAVID_WIDGER</dc:contributor>
+		<meta property="file-as" refines="#transcriber-2">WIDGER, DAVID</meta>
 		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
-		<dc:contributor id="transcriber-3">Distributed Proofreaders</dc:contributor>
-		<meta property="file-as" refines="#transcriber-3">Distributed Proofreaders</meta>
-		<link href="https://www.pgdp.net/" refines="#transcriber-3" rel="schema:url"/>
-		<meta property="role" refines="#transcriber-3" scheme="marc:relators">trc</meta>
-		<dc:contributor id="producer-1">PRODUCER_NAME</dc:contributor>
-		<meta property="file-as" refines="#producer-1">PRODUCER_SORT</meta>
-		<link href="PRODUCER_URL" refines="#producer-1" rel="schema:url"/>
+		<dc:contributor id="producer-1">FRANCIS_BEECHER</dc:contributor>
+		<meta property="file-as" refines="#producer-1">BEECHER, FRANCIS</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">cov</meta>
