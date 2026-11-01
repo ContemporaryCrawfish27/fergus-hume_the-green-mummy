@@ -36,9 +36,8 @@
 		<dc:subject id="subject-2">Detective and mystery stories</dc:subject>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
 		<meta property="term" refines="#subject-2">sh85037260</meta>
-		<meta property="schema:genre">Mystery</meta>
 		<meta property="schema:genre">Fiction</meta>
-		<meta property="schema:genre">TAG</meta>
+		<meta property="schema:genre">Mystery</meta>
 		<meta property="schema:abstract">The arrival of a mysterious Peruvian mummy brings murder and a hunt for hidden Inca treasure to an English town.</meta>
 		<dc:description>
 			&lt;p&gt;Archie Hope seeks to gain approval to marry the delightful Lucy Kendal by purchasing a rare Peruvian mummy for her stepfather, Professor Braddock, an eccentric Egyptology enthusiast. Yet far from bringing a joyful resolution, the mummy’s arrival heralds murder and mystery. Plunged into chaos, the young couple and their friends must race to unravel the crime and uncover a missing fortune in Inca emeralds.&lt;/p&gt;
@@ -62,8 +61,8 @@
 		<link href="https://en.wikipedia.org/wiki/Edward_Mitchell_Bannister" refines="#artist" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/n82072866.html" refines="#artist" rel="schema:sameAs"/>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
-		<dc:contributor id="transcriber-1">ANONYMOUS</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">ANONYMOUS</meta>
+		<dc:contributor id="transcriber-1">Anonymous</dc:contributor>
+		<meta property="file-as" refines="#transcriber-1">Anonymous</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-2">DAVID_WIDGER</dc:contributor>
 		<meta property="file-as" refines="#transcriber-2">WIDGER, DAVID</meta>
