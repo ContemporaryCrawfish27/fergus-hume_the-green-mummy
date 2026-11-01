@@ -40,10 +40,13 @@
 		<meta property="schema:genre">Fiction</meta>
 		<meta property="schema:genre">TAG</meta>
 		<meta property="schema:abstract">The arrival of a mysterious Peruvian mummy brings murder and a hunt for hidden Inca treasure to an English town.</meta>
-		<dc:description>Archie Hope seeks to gain approval to marry the delightful Lucy Kendal by purchasing a rare Peruvian mummy for her stepfather, Professor Braddock, an eccentric Egyptology enthusiast. Yet far from bringing a joyful resolution, the mummy’s arrival heralds murder and mystery. Plunged into chaos, the young couple and their friends must race to unravel the crime and uncover a missing fortune in Inca emeralds. Blending classic detective fiction with light romance, &lt;i&gt;The Green Mummy&lt;/i&gt; is a classic tale from prolific English author &lt;a href="https://standardebooks.org/ebooks/fergus-hume"&gt;Fergus Hume&lt;/a&gt;. By weaving popular Victorian sensibilities with the era’s fascination with antiquity and Egyptology, Hume delivers an engaging story of murder, greed, and suspense.</dc:description>
+		<dc:description>
+			<p>Archie Hope seeks to gain approval to marry the delightful Lucy Kendal by purchasing a rare Peruvian mummy for her stepfather, Professor Braddock, an eccentric Egyptology enthusiast. Yet far from bringing a joyful resolution, the mummy’s arrival heralds murder and mystery. Plunged into chaos, the young couple and their friends must race to unravel the crime and uncover a missing fortune in Inca emeralds.</p>
+			<p>Blending classic detective fiction with light romance, &lt;i&gt;The Green Mummy&lt;/i&gt; is a classic tale from prolific English author &lt;a href="https://standardebooks.org/ebooks/fergus-hume"&gt;Fergus Hume&lt;/a&gt;. By weaving popular Victorian sensibilities with the era’s fascination with antiquity and Egyptology, Hume delivers an engaging story of murder, greed, and suspense.</p>
+		</dc:description>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/2868</dc:source>
-		<dc:source>https://babel.hathitrust.org/cgi/pt?id=uc1.b3324254&amp;seq=7</dc:source>
+		<dc:source>https://catalog.hathitrust.org/Record/006130862</dc:source>
 		<meta property="schema:wordCount">WORD_COUNT</meta>
 		<meta property="schema:educationalLevel">READING_EASE</meta>
 		<meta id="vcs-repository" property="schema:workExample">schema:workExample</meta>
